@@ -1,0 +1,31 @@
+h1,
+h2,
+h3,
+h4,
+p,
+ul,
+li,
+span,
+div,
+body,
+dl,
+dt,
+dd,
+form,
+input,
+fieldset,
+textarea,
+th,
+td{
+    margin: 0;
+    padding: 0;
+    font-family: "PingFang SC", "LanTingHei SC", "Helvetica Neue", Arial, "Microsoft YaHei", "WenQuanYi Micro Hei", "Heiti SC", "Segoe UI", sans-serif;
+}
+
+div{
+    display: block;
+}
+body{
+    line-height: 1.42857143;
+    font-size: 14px;
+}
